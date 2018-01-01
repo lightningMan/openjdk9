@@ -40,4 +40,4 @@
 ^src/jdk.internal.vm.compiler/share/classes/\w[\w\.]*/\..*
 cmake-build-debug
 hello.*
-
+.idea/workspace.xml
